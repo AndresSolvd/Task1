@@ -1,5 +1,5 @@
 /**
- *sorts an array of integers in ascending order using the Bubble Sort algorithm and prints the sorted array to the console.
+ * sorts an array of integers in ascending order using the Bubble Sort algorithm and prints the sorted array to the console.
  */
 
 import java.util.Arrays;
